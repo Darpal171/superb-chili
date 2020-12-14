@@ -1,9 +1,7 @@
 ---
 title: Marketing
 subtitle: ''
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+excerpt: ''
 date: '2020-12-12'
 thumb_img_path: images/Marketing.jpg
 content_img_path: images/pink-mahogany.jpg
