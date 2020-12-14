@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Go Green Product
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      *“Capitalising full potential of the IT resources and technological
+      research to create a greener and sustainable future for people”.*
   - section_id: about
     type: section_content
     title: About
