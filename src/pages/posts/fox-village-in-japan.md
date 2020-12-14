@@ -1,10 +1,7 @@
 ---
 title: ''
 subtitle: ''
-excerpt: >-
-  Miyagi Zao Fox Village, aka Kitsune Mura, is a popular tourist attraction
-  situated in Shiroishi, Miyagi it based in the Miyagi Zao mountains. Visitors
-  can visit a village where there is a vast population of foxes.
+excerpt: ''
 date: ''
 content_img_path: images/5.jpg
 template: post
