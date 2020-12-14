@@ -6,7 +6,7 @@ excerpt: >-
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 date: '2020-12-12'
 thumb_img_path: images/Marketing.jpg
-content_img_path: images/3.jpg
+content_img_path: images/pink-mahogany.jpg
 template: post
 ---
 
