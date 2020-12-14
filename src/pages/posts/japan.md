@@ -7,7 +7,7 @@ excerpt: >-
   between rooms and indoor and outdoor space.
 date: '2019-03-10'
 thumb_img_path: images/Strategy.jpg
-content_img_path: images/2.jpg
+content_img_path: images/parallel-panda.jpg
 template: post
 ---
 
