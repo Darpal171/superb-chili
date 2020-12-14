@@ -1,5 +1,5 @@
 ---
-title: v
+title: Vision
 excerpt: ''
 date: '2019-03-27'
 template: post
