@@ -9,7 +9,6 @@ excerpt: >-
   with the stakeholders of a project and the management and execution of the
   design.
 date: ''
-thumb_img_path: images/1.jpg
 template: post
 ---
 
