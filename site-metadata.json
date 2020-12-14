@@ -4,7 +4,7 @@
     "palette": "blue",
     "header": {
         "title": "Go Green Product",
-        "tagline": "Header Tagline",
+        "tagline": "",
         "profile_img": "images/avatar.png",
         "background": "dark",
         "has_nav": true,
