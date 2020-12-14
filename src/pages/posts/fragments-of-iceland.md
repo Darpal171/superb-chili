@@ -3,6 +3,7 @@ title: Vision
 excerpt: ''
 date: '2019-03-27'
 template: post
+content_img_path: images/Our Vision (2).jpg
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
