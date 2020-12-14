@@ -1,33 +1,6 @@
 ---
 title: Vision
-excerpt: >-
-  Sustainability will be the foremost objective of the new company which will
-  manufacture only green technologies. A business can be sustainable by
-  contributing towards greater good of the society rather than just following
-  customer needs (Singh and Kumar, 2017). Environment and social benefits can
-  provide additional dimension to promotion of the brand image of GGP. Because
-  of this reason, GGP will contribute toward development of green IT resources
-  and technological products to maintain business sustainability without other
-  additional efforts. Most of the time, business companies make additional
-  investment to promote sustainable consideration of the company leading to
-  added environmental and social benefits (Singh and Singh, 2016). However,
-  GGP’s core business operations will revolve around green technologies and the
-  company will be always operating under the sustainable dimension of the IT
-  industry. Business sustainability will be important for GGP to attract new
-  customers and investors. Modern customers tend to show equal awareness toward
-  their requirements along with sustainability of products and services. By
-  purchasing products of GGP, customers will also be able to contribute for
-  greater good of the society (Utaminingsihet al. 2020). On the other hand,
-  investors always see long-term profitability in sustainable business because
-  sustainable companies always meet criteria of ethical, social and
-  environmental responsibility. GGP will need a large amount of investment in
-  the research and development sector. Thus, attracting new investors is the
-  best way to ensure stable flow of cash or monetary resources. According to
-  Saunilaet al. (2018), sustainable organisations are also very effective to
-  generate long-term profit in business. Lack of responsibility toward
-  environmental contribution can increase conditional corporate taxes. However,
-  GGP will not pay any extra tax if the company is able to keep this business
-  sustainable.
+excerpt: ''
 date: '2019-03-27'
 template: post
 content_img_path: images/Our Vision (2).jpg
