@@ -6,7 +6,7 @@ excerpt: >-
   surfer, rides on the forward or deep face of a moving wave, which is usually
   carrying the surfer towards the shore.
 date: '2020-12-12'
-thumb_img_path: images/4.jpg
+thumb_img_path: images/Finance.jpg
 content_img_path: images/4.jpg
 template: post
 ---
