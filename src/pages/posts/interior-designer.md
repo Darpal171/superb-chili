@@ -8,7 +8,7 @@ excerpt: >-
   multifaceted profession that includes conceptual development, communicating
   with the stakeholders of a project and the management and execution of the
   design.
-date: '2017-03-26'
+date: ''
 thumb_img_path: images/1.jpg
 template: post
 ---
